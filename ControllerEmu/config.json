@@ -1,0 +1,32 @@
+{
+    "toggle_key": "f5",
+    "invert_bumpers": true,
+    "joystick_left": {
+        "up": "z",
+        "down": "s",
+        "left": "q",
+        "right": "d"
+    },
+    "mouse_settings": {
+        "sensitivity_x": 15.0,
+        "sensitivity_y": 15.0,
+        "anti_deadzone": 0.06,
+        "smoothing": 0.0
+    },
+    "mappings": {
+        "space": "A",
+        "c": "B",
+        "e": "X",
+        "a": "Y",
+        "g": "RB",
+        "f": "LB",
+        "shift": "LS",
+        "v": "RS",
+        "é": "BACK",
+        "&": "START",
+        "up": "UP",
+        "down": "DOWN",
+        "left": "LEFT",
+        "right": "RIGHT"
+    }
+}
